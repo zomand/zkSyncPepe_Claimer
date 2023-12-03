@@ -15,4 +15,4 @@
    
 Запуск
 
-python main.py.
+1. python main.py.
