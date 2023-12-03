@@ -84,7 +84,7 @@ def sleep() -> None:
 
 
 def main() -> None:
-    logger.info("Start. Powered by https://t.me/python_web3")
+    logger.info("Start.")
 
     with open("wallets.txt", "r", encoding="utf8") as file:
         wallets: list[LocalAccount] = [
